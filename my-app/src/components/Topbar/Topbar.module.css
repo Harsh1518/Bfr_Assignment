@@ -1,0 +1,16 @@
+.parent {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+  height: 35px;
+  background: none;
+  background-image: linear-gradient(to bottom right, #000000, #BB05ED, #79FFFFFF);
+  padding-top: 10px;
+}
+
+.child {
+  text-decoration: none;
+  font-weight: 400;
+  color: #F5DEB3;
+}
+
